@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{494B6836-FE7A-41F6-9F16-BD2F75434081}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RealmAddressBook/Pages/PersonPage.xaml.cs">
+    <Files>
+      <File FileName="RealmAddressBook/Pages/PeoplePage.xaml" Line="31" Column="15" />
+      <File FileName="RealmAddressBook/RealmAddressBookPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="RealmAddressBook/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="RealmAddressBook/Pages/PeoplePage.xaml.cs" Line="4" Column="30" />
+      <File FileName="RealmAddressBook/Pages/AddressPage.xaml" Line="70" Column="15" />
+      <File FileName="RealmAddressBook/Pages/AddressPage.xaml.cs" Line="20" Column="40" />
+      <File FileName="RealmAddressBook/Pages/PersonPage.xaml" Line="1" Column="1" />
+      <File FileName="RealmAddressBook/ViewModels/AddEditAddressViewModel.cs" Line="41" Column="4" />
+      <File FileName="RealmAddressBook/ViewModels/AddEditPersonViewModel.cs" Line="94" Column="35" />
+      <File FileName="RealmAddressBook/Modelli/Address.cs" Line="7" Column="5" />
+      <File FileName="RealmAddressBook/Pages/PersonPage.xaml.cs" Line="34" Column="1" />
+      <File FileName="RealmAddressBook/Properties/AssemblyInfo.cs" Line="1" Column="1" />
+      <File FileName="RealmAddressBook/Services/IDBService.cs" Line="2" Column="30" />
+      <File FileName="RealmAddressBook/Services/RealmDBService.cs" Line="83" Column="23" />
+      <File FileName="RealmAddressBook/Modelli/Person.cs" Line="8" Column="3" />
+      <File FileName="RealmAddressBook/obj/Debug/RealmAddressBook.Pages.AddressPage.xaml.g.cs" Line="20" Column="42" />
+      <File FileName="RealmAddressBook/ViewModels/ViewModelLocator.cs" Line="18" Column="32" />
+      <File FileName="RealmAddressBook/ViewModels/PeopleListViewModel.cs" Line="4" Column="30" />
+      <File FileName="RealmAddressBook/packages.config" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RealmAddressBook.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.980CB7C9-75F7-45BF-8676-F1C54C3CD5B1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

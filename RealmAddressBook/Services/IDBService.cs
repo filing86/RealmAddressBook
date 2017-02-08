@@ -1,4 +1,5 @@
 ﻿using System;
+using RealmAddressBook.Models;
 using System.Collections.Generic;
 
 namespace RealmAddressBook.Services
